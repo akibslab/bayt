@@ -1,0 +1,65 @@
+/*--------------------------------------------------------------
+
+    Template Name: 
+    Description: This is a Responsive HTML5 Template.
+    Author: Theme Junction
+    Author URI: https://themeforest.net/user/theme-junction
+    Version: 1.0
+
+----------------------------------------------------------------
+
+* This file contains the styling for the actual theme, this
+is the file you need to edit to change the look of the
+theme.
+
+----------------------------------------------------------------
+
+    [CSS INDEX]
+    ===================
+    01. Default CSS
+    02. Typograpgy
+    03. Header Area
+    04. About Section
+
+-------------------------------------------------------------*/
+
+
+/*
+* ===============================
+*  Defult CSS 
+* ===============================
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap');
+html,
+body {
+    min-height: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*
+* ===============================
+*  Typograpgy
+* ===============================
+*/
+body {
+    font-family: 'Inter', sans-serif;
+    color: #7D7D7D;
+}
+
+a
+
+
+/*
+* ===============================
+*  Header
+* ===============================
+*/
+
+.header-one {
+    background: #000;
+  }
+
